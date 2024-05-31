@@ -1,0 +1,600 @@
+/* Navbar */
+.fContainer{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  border-color: red;
+}
+
+.wrapper{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  
+}
+
+.name{
+  font-size: 1.3em;
+  font-weight: bold ;
+  padding: 0%;
+  
+}
+
+.navigation{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+margin: 0;
+padding: 0;
+font-weight: bold;
+width: 100%;
+padding-left: 690px;
+}
+
+.navigation > li {
+  list-style-type: none;
+}
+
+#pbg{
+  background-color: rgba(69,126,117,255);
+  color: white;
+  border-radius: 15px;
+  
+}
+
+.Navbar {
+  background: none;
+  color:black ;
+  border: none;
+  width: 90px;
+  padding: 10px 35px ;
+  text-decoration: none;
+  display: flex;
+ 
+}
+/* Review */
+.spanDiscover{
+  color: rgba(69,126,117,255);
+}
+
+.container{
+ display: flex;
+ justify-content: center;
+ margin:20px ;
+  padding-top: 150px;
+  padding-left: 150px;
+  padding-bottom: px;
+}
+
+.wraper{
+  display: flex;
+  justify-content: center;
+}
+
+.wraper ul{
+  list-style-type: none;
+}
+
+.disco{
+  margin-right: 500px;
+
+}
+
+.Discover{
+  font-size: 4em;
+  font-weight: bold;
+}
+
+.desk{
+  display: block;
+  font-size:1.5em;
+
+}
+.imggoapp{
+display: flex;
+justify-content: space-between;
+margin-top: 30px;
+margin-right: 50px;
+}
+
+.dowgo{
+width: 250px;
+height: 70px;
+}
+
+.dowapp{
+  width: 250px;
+  height: 70px;
+}
+
+.Down{
+  justify-content: center;
+  display: flex;
+  margin-bottom: 100px;
+  color: rgba(69,126,117,255);
+}
+#ad{
+  width: 70px;
+  height: 40px;
+  border: 1px solid rgba(69,126,117,255);
+  border-radius: 40px;
+  padding: 10px;
+}
+.ArrowDown ul{
+  list-style-type:none ;
+}
+
+/*People*/
+
+.Buildup{
+  position: relative;
+  color: black;
+}
+
+.Build{
+  font-weight: lighter;
+  letter-spacing: 5px;
+  font-size: 2em;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  font-family: monospace;
+}
+
+.JoinThe{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.Buje{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.containerBuje {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+/* Partners */
+
+.PContainer{
+  display: flex;
+  justify-content: center;
+}
+
+.cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+}
+
+.image img {
+  max-width: 700px; 
+}
+.image ul {
+  list-style-type: none;
+}
+
+.thumbnail img {
+  max-width: 400px; 
+  margin-top: 20px; 
+  margin-left: 100px;
+}
+.text{
+  margin-left: 300px;
+}
+
+.text ul li{
+  list-style-type: none;
+}
+
+.Get{
+  font-size: 1.8em;
+  letter-spacing: 5px;
+}
+
+.Share{
+  font-size: 3em;
+  font-weight: bold;
+  margin-bottom: 40px
+}
+
+.Miringkan{
+  margin-top: 20px;
+}
+.ItemDesk{
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+
+.LogoItem{
+  color: rgba(69,126,117,255);
+  width: 40px;
+}
+.DeskLorem{
+  margin-left: 40px;
+
+}
+
+
+/* Feedback */
+
+.FBContainer{
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.Cont{
+  display: flex;
+  justify-content: space-between;
+}
+
+.fbwraper{
+  display: flex;
+  align-items: center;
+}
+
+.fbwraper ul{
+  list-style-type: none;
+}
+.fbdiv1{
+  margin-right:400px ;
+}
+.popular{
+  letter-spacing: 4px;
+  font-size: 2em;
+}
+
+.discovering{
+  font-size: 3em;
+  font-weight: bold;
+  margin-bottom: 80px;
+}
+.plus{
+  width: 40px;
+  height: 40px;
+  position: relative;
+  bottom: 27px;
+  right: 65px ;
+  color:rgba(69,126,117,255) ;
+}
+.Kebawah{
+  margin-top: 15px;
+}
+.bwhtxt{
+  width: 300px;
+  height: auto;
+}
+.hpbwh{
+  width: 600px;
+}
+
+
+
+
+
+
+/* Pricing*/
+
+.Pricing{
+  text-decoration: none;
+  margin-bottom:100px ;
+  
+}
+
+.PricingTble{
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  font-weight: 100;
+  letter-spacing: 4px;
+  font-size: 2em;
+  margin-top: 100px;
+}
+
+.Chose{
+  display: flex;
+  justify-content: center;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.Underline{
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+.Underline a{
+  background-color: rgba(69,126,117,255);
+}
+
+.grid-container{
+  display: flex;
+  justify-content: space-between;
+  width: 1300px;
+  margin: auto;
+  text-decoration: none;
+}
+
+.BasicBold{
+  font-weight: bold;
+  font-size: 1.3em;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+
+.card{
+  font-size: 1.5em;
+}
+.card > ul{
+  list-style-type: none;
+}
+.spanmonth{
+  font-weight: lighter;
+}
+
+#AtasDesk{
+  display: flex;
+  margin-top: 10px;
+}
+.DeskCard{
+  display: flex;
+  text-align: left;
+  position: relative;
+  right: 40px;
+}
+
+#Check{
+  color: rgba(69,126,117,255);
+  position: relative;
+  right: 10px;
+  margin: 10px;
+}
+
+.Centang{
+  margin-top: 60px;
+  text-align: left;
+  position: relative;
+  right: 30px;
+}
+.KasihJeda{
+  position: relative;
+  left: 10px;
+  text-align: center;
+  bottom: 15px;
+}
+
+.choose{
+border: 1px solid rgba(69,126,117,255);
+border-radius: 9px;
+justify-content: center;
+display: flex;
+padding: 10px;
+margin-top: 50px;
+}
+
+.choose a{
+  color: rgba(69,126,117,255);
+  text-decoration: none;
+
+}
+
+.choose:hover{
+  background-color: rgba(69,126,117,255);
+}
+
+.choose:hover a{
+  color: #ffffff;
+}
+
+
+
+
+
+/* Get The App */
+
+.GContainer{
+  display: flex;
+  justify-content: center;
+}
+.Dwraper{
+  margin-top: 50px;
+  background-color: rgba(69,126,117,255) ;
+  border-radius: 20px;
+  width: 1500px;
+  height: 390px;
+  display: flex;
+  justify-content: center;
+}
+.Dwraper ul{
+  list-style-type: none;
+}
+
+.txtdownload{
+  color: white;
+  font-weight: bold;
+  font-size: 2.5em;
+  display: flex;
+  margin-bottom: 30px;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.desktxt{
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+}
+.pisah{
+  justify-content: space-between;
+  display: flex;
+}
+.download{
+  width: 200px;
+  height: 70px;
+}
+
+#dowgo{
+  margin-left: 220px;
+}
+
+#dowapp{
+  margin-right: 220px;
+
+}
+
+/*About*/
+.about{
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+  margin-top: 90px;
+}
+
+.about > ul{
+  list-style-type: none;
+}
+
+
+
+.ItemHeader{
+  font-weight: bold;
+  position: relative;
+  color: black;
+  text-decoration: none;
+
+}
+
+#Email{
+  position: relative;
+  right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 7px 0 0 7px;
+  padding: 10px;
+  background-color:  #ffffff; 
+  color: black;
+}
+.bcgijo{
+  position: relative;
+  right: 9.5px;
+  top: 1px;
+  padding: 8.1px;  
+}
+.bcgijo:hover {
+  background-color: white;
+  }
+.Arrow{
+  color: white;
+  margin-right: 7px;
+  position: relative;
+  padding: 5px;
+  background-color: rgba(69,126,117,255);
+  border-radius: 0 10px 10px 0;
+
+  top: 11px;
+  right: 8px;
+  padding: 9px;
+}
+.Arrow:hover{
+  color: black;
+}
+
+
+
+
+.Item{
+  display: flex;
+  position: relative;
+  top: 30px ; 
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: black;
+}
+.Item:hover{
+  text-decoration: underline;
+  color: rgba(69,126,117,255);
+}
+
+/*footer */
+.FContainer{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+
+.fotwrapper{
+   display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px; 
+}
+
+.navigationF{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  font-weight: bold;
+  width: 100%;
+  padding-left: 300px;
+} 
+
+
+
+
+.navigationF > li{
+  list-style-type: none;
+}
+.footer{
+  background: none;
+  color:black ;
+  border: none;
+  width: 90px;
+  padding: 10px 35px ;
+  text-decoration: none;
+  display: flex;
+}
+
+.NamaFooter{
+  font-size: 1.3em;
+  font-weight: bold ;
+  padding: 0%;
+}
+
+.iconnn{
+  width: 100px;
+  height: 30px;
+  position: relative;
+  color: rgba(69,126,117,255);
+  gap: 40px;
+}
+
+
